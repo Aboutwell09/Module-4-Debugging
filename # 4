@@ -17,7 +17,7 @@ stop
 
 startUp()
    output "Enter your mortgage payment or 0 to quit"
-   input mtgPayment
+   input mortgagePayment
 return
 
 mainLoop()
