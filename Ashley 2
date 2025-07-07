@@ -19,5 +19,6 @@ start
          output "Fail"
       endif
       output "Enter first score or 0 to quit "
-   endwhile
+      input firstTest
+      endwhile
 stop
